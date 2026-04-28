@@ -9,7 +9,7 @@
  
 ## Project Overview
  
-This dashboard analyzes **98,666 orders** placed on the Olist e-commerce platform in Brazil. The goal was to uncover revenue patterns, customer behavior, delivery performance, and product category trends — and present them as a clean, story-driven dashboard.
+This dashboard analyzes **98,666 orders** placed on the Olist e-commerce platform in Brazil. The goal was to uncover revenue patterns, customer behavior, delivery performance, and product category trends — and present them as a clean, story-driven dashboard. This project simulates real-world business analysis to support data-driven decision-making in an e-commerce environment.
  
 ---
  
@@ -20,9 +20,9 @@ This dashboard analyzes **98,666 orders** placed on the Olist e-commerce platfor
 | Top State | Heavy dependency on SP (~37%) suggests revenue concentration risk—expansion into underperforming states could improve stability.|
 | Payment Preference | **Credit card drives 80%** of all revenue, indicating strong dependence on a single payment method and potential risk if transaction costs or failures increase |
 | Peak Months | Orders peak in **May and August** ,suggesting seasonality or campaign-driven demand spikes that can be leveraged for targeted marketing|
-| Customer Retention | Only **2.93% repeated customers** — a major growth opportunity indicates a critical retention gap and heavy reliance on new customer acquisition|
-| Delivery Performance | **91.89% on-time delivery** rate which seems to be good and should be consistent.|
-| Avg Delivery Time | **11.98 days** average delivery which is relatively higher for ecommerce sites |
+| Customer Retention | Only **2.93% repeated customers** indicates a critical retention gap and heavy reliance on new customer acquisition|
+| Delivery Performance | **91.89% on-time delivery** rate indicates strong operational performance, though consistency should be maintained to ensure customer satisfaction.|
+| Avg Delivery Time | **11.98 days** average delivery days may impact customer satisfaction and repeat purchases. |
 | Avg Order Value | **R$ 162.3** per order |
 | Top Categories | Beauty & Health, Watches, Bed/Bath lead revenue |
  
@@ -110,5 +110,5 @@ orders ──── payments        (on order_id)
 [sweetyy955@gmail.com]
  
 ---
-This project simulates real-world business analysis to support data-driven decision-making in an e-commerce environment.
+
 ⭐ If you found this useful, feel free to star the repo!
