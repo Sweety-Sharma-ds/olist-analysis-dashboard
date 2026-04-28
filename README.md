@@ -17,7 +17,7 @@ This dashboard analyzes **98,666 orders** placed on the Olist e-commerce platfor
  
 | Insight | Finding |
 |---|---|
-| Top State | SP (São Paulo) contributes **~37%** of total revenue |
+| Top State | Heavy dependency on SP (~37%) suggests revenue concentration risk—expansion into underperforming states could improve stability.|
 | Payment Preference | **Credit card drives 80%** of all revenue |
 | Peak Months | Orders peak in **May and August** |
 | Customer Retention | Only **2.93% repeated customers** — a major growth opportunity |
@@ -72,7 +72,14 @@ orders ──── payments        (on order_id)
 - Bar chart showing % of revenue by payment method
 - Credit card dominates at ~80%
 ---
- 
+
+ ## 📈 Business Recommendations
+
+- Improve customer retention through loyalty programs and targeted marketing campaigns
+- Expand operations in underperforming states to reduce geographic dependency
+- Optimize delivery timelines to enhance customer satisfaction and repeat purchases
+- Focus on high-performing categories (Beauty, Home) for revenue growth
+
 ## Tools & Skills
  
 - **Tableau Desktop** — dashboard design, calculated fields, dual axis, annotations
