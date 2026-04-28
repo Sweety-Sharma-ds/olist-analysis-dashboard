@@ -1,4 +1,4 @@
-# 📊 Olist E-Commerce Data Analysis — Tableau Dashboard
+# Olist E-Commerce Data Analysis — Tableau Dashboard
  
 ![Dashboard Preview](dashboard_preview.png)
  
@@ -7,28 +7,28 @@
  
 ---
  
-## 🔍 Project Overview
+## Project Overview
  
 This dashboard analyzes **98,666 orders** placed on the Olist e-commerce platform in Brazil. The goal was to uncover revenue patterns, customer behavior, delivery performance, and product category trends — and present them as a clean, story-driven dashboard.
  
 ---
  
-## 💡 Key Insights
+## Key Insights
  
 | Insight | Finding |
 |---|---|
-| 🏙️ Top State | SP (São Paulo) contributes **~37%** of total revenue |
-| 💳 Payment Preference | **Credit card drives 80%** of all revenue |
-| 📅 Peak Months | Orders peak in **May and August** |
-| 🔁 Customer Retention | Only **2.93% repeated customers** — a major growth opportunity |
-| 🚚 Delivery Performance | **91.89% on-time delivery** rate |
-| ⏱️ Avg Delivery Time | **11.98 days** average delivery |
-| 💰 Avg Order Value | **R$ 162.3** per order |
-| 🛍️ Top Categories | Beauty & Health, Watches, Bed/Bath lead revenue |
+| Top State | SP (São Paulo) contributes **~37%** of total revenue |
+| Payment Preference | **Credit card drives 80%** of all revenue |
+| Peak Months | Orders peak in **May and August** |
+| Customer Retention | Only **2.93% repeated customers** — a major growth opportunity |
+| Delivery Performance | **91.89% on-time delivery** rate |
+| Avg Delivery Time | **11.98 days** average delivery |
+| Avg Order Value | **R$ 162.3** per order |
+| Top Categories | Beauty & Health, Watches, Bed/Bath lead revenue |
  
 ---
  
-## 📁 Dataset
+## Dataset
  
 **Source:** [Olist Brazilian E-Commerce Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
  
@@ -52,7 +52,7 @@ orders ──── payments        (on order_id)
  
 ---
  
-## 📈 Dashboard Charts
+## Dashboard Charts
  
 ### KPI Cards (Top Row)
 - Total Revenue, Orders Total, Average Order Value
@@ -73,7 +73,7 @@ orders ──── payments        (on order_id)
 - Credit card dominates at ~80%
 ---
  
-## 🛠️ Tools & Skills
+## Tools & Skills
  
 - **Tableau Desktop** — dashboard design, calculated fields, dual axis, annotations
 - **Data Joining** — 5 tables joined in Tableau Data Source tab
@@ -81,7 +81,7 @@ orders ──── payments        (on order_id)
 - **Storytelling** — insight annotations added directly on charts
 ---
  
-## 🚀 How to Open
+## How to Open
  
 1. Download `olist_ecommerce_analysis.twbx`
 2. Open with **Tableau Desktop** or **Tableau Public** (free)
@@ -97,7 +97,7 @@ orders ──── payments        (on order_id)
 - Iterative design — improved the dashboard through multiple feedback cycles
 ---
  
-## 👤 Author
+## Author
  
 **[Sweety Sharma]**  
 [sweetyy955@gmail.com]
